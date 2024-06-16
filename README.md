@@ -1,4 +1,4 @@
-- 👀 I’m interested in security of software and op system
+- 👀 I’m interested in security of software and OS
 - 🌱 I’m currently learning NEU and HUST
 
 <!---
